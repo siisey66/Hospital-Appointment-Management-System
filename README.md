@@ -2,7 +2,7 @@
 A web-based hospital appointment system that allows patients to book appointments online, doctors to manage schedules, and administrators to control users, roles, and departments.
 GROUP NAME: k
 
-iD NAME CLASS C1220985 Bakar Isse Mohamed C226 C1221273 Abdifitah Muse Gurhan C226 C1221147 Isse Abdi Siyad C226
+iD NAME CLASS C1220985 Bakar Isse Mohamed C226 C1221273 Abdifitah Muse Gurhan C226 C1221165 Isse Abdi Siyad C226
 
 A robust, modern Hospital Appointment Management System designed to streamline healthcare operations. This project features a high-performance PHP backend and a dynamic, premium React frontend.
 
